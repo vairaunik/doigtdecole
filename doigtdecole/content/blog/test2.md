@@ -3,7 +3,7 @@
 title: "Mon test 2"
 date: 2021-04-11T19:53:33+05:30
 draft: false
-author: "Gurusabarish"
+author: "Vairaunik"
 tags:
   - Rich content
 bg_image: ""

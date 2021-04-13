@@ -1,5 +1,5 @@
-baseURL: "https://example.com"
-languageCode: "en-us"
+baseURL: "https://determined-franklin-eb8cb8.netlify.app/"
+languageCode: "fr-FR"
 title: "Doigt d'école"
 
 googleanalytics: UA-xxxxxx-x
