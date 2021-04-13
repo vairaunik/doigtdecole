@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: Titre
+pages:
+- doigtdecole/content/blog/13 avril.md
