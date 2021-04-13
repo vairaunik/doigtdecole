@@ -1,6 +1,6 @@
 
 <div align="center">
-  
+
 # hugo-profile
 
 A high performance hugo theme for personal portfolio and blog
@@ -61,7 +61,7 @@ git clone https://github.com/gurusabarish/hugo-profile.git
 
 ## Configuration
 
-Configure your `config.yaml` file of your site as [here](https://github.com/gurusabarish/hugo-profile/blob/master/netlifysite/config.yaml)
+Configure your `config.yaml` file of your site as [here](https://github.com/gurusabarish/hugo-profile/blob/master/doigtdecole/config.yaml)
 
 
 ## Archetypes support
@@ -71,10 +71,10 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 author: ""
-tags: 
+tags:
 bg_image: ""
 description: ""
-toc: 
+toc:
 ---
 ```
 
