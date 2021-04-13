@@ -2,3 +2,4 @@
 /content
 /config.yaml
 /static/images
+.DS_Store
