@@ -51,9 +51,9 @@ params:
   usedothings: true
   Things:
     - logo: fab fa-python
-      title: Python
-      description: I build something beautiful using Python.
-      #url: https://example.com
+      title: Ecole
+      description: J'utilise des iPads en école.
+      url: https://doigtdecole.com
 
     - logo: fas fa-robot
       title: Machine learning
